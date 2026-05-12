@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BeratBadanIdeal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        char ulang = 'Y'; // inisialisasi awal
+        char ulang = 'Y';
 
         do {
             System.out.print("Pilih jenis kelamin (L/P) : ");
